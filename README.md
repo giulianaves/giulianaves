@@ -7,5 +7,5 @@ Meu nome é Giulia e sou uma analista de BI apaixonada por fazer análises e das
 - Outras ferramentas: Trello, Miro, Figma
 - Além dessas ferramentas, tenho habilidade com a linguagem DAX, processo ETL, modelagem e tratamento de dados, mapeamento de processos, resolução de problemas e pensamento estratégico.
 
-# Projetos 🗂️
-- Em breve, vou disponibilizar uma seção com meus principais projetos.
+# Portfólio
+[Acesse aqui meu portfólio](https://github.com/giulianaves/portfolio) com meus principais projetos.
